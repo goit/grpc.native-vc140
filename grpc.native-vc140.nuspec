@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>grpc.native-vc140</id>
-    <version>1.0.1-zlocal</version>
+    <version>1.0.1-preview1</version>
     <title>gRPC C++ (Visual C++ Platform v140)</title>
     <authors>google</authors>
     <owners>jozefizso</owners>
